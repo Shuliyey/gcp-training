@@ -3,6 +3,6 @@ GCP Training
 
 # Chapters
 
-* [qwikilabs](./qwikilabs)
-  * [gcp-cloud-essentials](./qwikilabs/gcp-cloud-essentials)
-    * [6-challenge-lab](./qwikilabs/gcp-cloud-essentials/6-challenge-lab)
+* [qwiklabs](./qwiklabs)
+  * [gcp-cloud-essentials](./qwiklabs/gcp-cloud-essentials)
+    * [6-challenge-lab](./qwiklabs/gcp-cloud-essentials/6-challenge-lab)
