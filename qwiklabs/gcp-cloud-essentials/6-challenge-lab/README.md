@@ -9,6 +9,11 @@ gcp cloud essentials - challenge lab
 ## Walkthrough
 
 ```bash
+# set gcp config
+./set.sh
+```
+
+```bash
 # create gcp resources
 ./up.sh
 
